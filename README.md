@@ -1,3 +1,4 @@
+English | [Türkçe](./README_tr-TR.md)
 # Password-Generator
 A Password Generator for use in the Python terminal.
 ## How Does It Work?
