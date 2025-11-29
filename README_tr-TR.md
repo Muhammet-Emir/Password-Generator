@@ -1,7 +1,7 @@
 [English](./README.md) | Türkçe
 # Password-Generator | Şifre-Oluşturucu
 Python terminalinde kullanılmak üzere kodlanmış bir Şifre Oluşturucusu.
-## How Does It Work?
+## Nasıl Çalışır?
 Program, terminalde bir hoşgeldiniz ekranı ile başlar ve kullanıcıya Python terminalinde hangi dili (İngilizce/Türkçe) kullanmak istediğini sorar.
 Ardından kullanıcıya devam etmek isteyip istemediğini sorar, kullanıcının oluşturmak istediği şifrenin koşullarını sorar. Burada kullanıcı, şifrenin uzunluğunu (10-128 karakter),
 harf, rakam ve özel karakter kullanıp kullanmayacağını belirler. Bu seçenekleri seçip kombinleyerek, kullanıcı istediği şifreyi oluşturabilir.
