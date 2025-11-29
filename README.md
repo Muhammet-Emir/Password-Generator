@@ -2,7 +2,7 @@ English | [Türkçe](./README_tr-TR.md)
 # Password-Generator
 A Password Generator for use in the Python terminal.
 ## How Does It Work?
-The program starts with a welcome screen in the terminal and asks user which language (English/Turkish) they prefer to use in Python's terminal. It asks if the user wants to continue, then asks for the conditions for the password user want to create. Here user decide on the length (10-128 characters), whether to use letters, numbers, and special characters. By selecting and combining these options, user can create the password user want. After the password is created, it is provided to the user along with a closing page, and there is an option for the user to create another password using the same rules. The passwords is created using Python's 'random' and 'string' libraries.
+The program starts with a welcome screen in the terminal and asks the user which language (English/Turkish) they want to use in the Python terminal. It then asks the user if they want to continue and asks about the conditions for the password they want to create. Here, the user specifies the length of the password (10-128 characters) and whether they want to use letters, numbers, and special characters. By selecting and combining these options, the user can create the desired password. After the password is created, the user is presented with a closing page and given the option to create another password using the same rules. Passwords are created using Python's ‘random’ and ‘string’ libraries.
 ## Error Messages
 If the user does something that causes the code to be incomplete or malfunction while using the program,
 the program displays an error message and stops running if necessary.
